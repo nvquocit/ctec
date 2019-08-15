@@ -2,6 +2,8 @@
 
 Báo cáo thực tập xây dụng website tin tức trường Cao Đẳng Kinh Tế - Kỹ Thuật Cần Thơ (CTEC). Website được xây dựng bằng ngôn ngữ php trên nền Laravel Framework.
 
+Website Demo: <a href="https://ctec.tk">ctec.tk</a>
+
   <img src="https://raw.githubusercontent.com/nvquocit/ctec/master/pic_1.png" alt="ScreenShot">
   
   
