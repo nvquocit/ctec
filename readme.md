@@ -10,12 +10,25 @@ Báo cáo thực tập xây dụng website tin tức trường Cao Đẳng Kinh 
 
 ## Usage
 
+Clone project về :
+
 ```bash
+git clone https://github.com/nvquocit/ctec.git
+```
 
+Truy cập vào thư mục project chạy lệnh:
+
+```bash
 composer install
+```
 
-php artisan migrate
+Sao chép hoặc đổi tên tệp .env.example thành .env sau đó chỉnh sửa các thông sô trong file .env cho phù hợp.
+Chạy lệnh:
+
+```bash
+php artisan key:generate
+```
+
+import tệp database: db_ctec.sql vào mysql.
 
 done :))
-
-```
