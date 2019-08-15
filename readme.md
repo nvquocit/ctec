@@ -10,6 +10,9 @@ Báo cáo thực tập xây dụng website tin tức trường Cao Đẳng Kinh 
   
   <img src="https://raw.githubusercontent.com/nvquocit/ctec/master/pic_3.png" alt="ScreenShot">
 
+
+  <img src="https://raw.githubusercontent.com/nvquocit/ctec/master/pic_4.png" alt="ScreenShot">
+
 ## Usage
 
 Clone project về :
